@@ -1,5 +1,5 @@
 # 💫 About Me:
-Here’s a refined "About Me" paragraph:<br><br>I am a passionate tech enthusiast currently honing my skills in Machine Learning, DevOps Engineering, and advanced Python development. I am also looking to pursue my BSc Honours degree in Computer Sciences. In addition to my academic journey, I actively seek collaboration on Kaggle's open-source machine learning projects to expand my practical experience. Currently, I am learning React, React Native, Docker, TypeScript, advanced data modeling, PostgreSQL, and MSSQL to broaden my expertise and contribute more effectively to tech-driven solutions.
+I am a passionate tech enthusiast currently honing my skills in Machine Learning, DevOps Engineering, and advanced Python development. I am also looking to pursue my BSc Honours degree in Computer Sciences. In addition to my academic journey, I actively seek collaboration on Kaggle's open-source machine learning projects to expand my practical experience. Currently, I am learning React, React Native, Docker, TypeScript, advanced data modeling, PostgreSQL, and MSSQL to broaden my expertise and contribute more effectively to tech-driven solutions.
 
 
 ## 🌐 Socials:
